@@ -32,3 +32,10 @@ OPD management involves various activities and processes to ensure the smooth fu
 10. Records management: Maintaining comprehensive and secure patient records for future reference and continuity of care.
 
 Effective OPD management is crucial for delivering quality healthcare services to outpatients while optimizing resources and minimizing operational challenges. With efficient management, healthcare facilities can enhance patient satisfaction, improve workflow, and provide better patient outcomes.
+
+### Problem Statements Provided to us by Yashoda Hospital
+•  The current appointment scheduling process in hospitals lacks a systematic approach to consider the visit history of patients, resulting in inefficiencies and delays in providing timely care to repeat and chronic patients.
+•	Hospitals struggle to prioritize appointments based on the number of times patients have visited for the same problem, leading to challenges in ensuring continuity of care and timely access to healthcare services.
+•	Existing appointment scheduling systems do not adequately differentiate between new patients and those with a history of visits, resulting in suboptimal resource allocation and potential delays in providing necessary treatment to patients requiring ongoing care.
+•	The absence of a structured system to prioritize appointments based on visit history poses challenges for healthcare providers in managing patient dissatisfaction and potential exacerbation of medical conditions.
+•	Lack of efficient appointment scheduling algorithms based on patients’ visit history hinders hospitals’ ability to allocate available slots optimally, resulting in underutilization of resources and suboptimal patient flow management.
