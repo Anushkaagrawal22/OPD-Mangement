@@ -1,13 +1,15 @@
 # OPD Mangement
 ### Yashoda Hospital
-<img src="https://cdn.yashodahospitals.com/wp-content/uploads/yashoda_hitech_city.jpg">
+<img src="https://cdn.yashodahospitals.com/wp-content/uploads/yashoda_hitech_city.jpg" width="400" 
+     height="500">
 Founded in 1989 at Somajuguda in Hyderabad, Yashoda Hospitals is one of the largest hospital chains in Hyderabad. Expanded all over Hyderabad with new branches in Secunderabad and Malakpet, with another branch coming up in Hitec City.
 Under strong management and exemplary leadership, Yashoda Group of Hospitals has prospered as a medical center of excellence, which provides the highest quality standards of medical treatment to all sections of the society.<br>
 Yashoda Hospital is a renowned healthcare institution known for its exceptional medical services and patient care. Located in India, it has established itself as a leading multi-specialty hospital, offering a wide range of medical treatments and advanced facilities. Yashoda Hospital is equipped with state-of-the-art technology and a team of highly skilled doctors, nurses, and support staff who are dedicated to providing the best possible healthcare outcomes. The hospital's commitment to innovation, research, and continuous improvement has earned it a reputation for excellence in various medical disciplines. With a patient-centric approach and a focus on compassionate care, Yashoda Hospital continues to be a trusted destination for individuals seeking high-quality medical treatment.
 
 
 ### What is OPD Management?
-<img src="https://cdn.yashodahospitals.com/wp-content/uploads/yashoda_hitech_city.jpg">
+<img src="https://images.drlogy.com/assets/uploads/img/general/drlogy-app/hspsz.png" width="400" 
+     height="500">
 OPD management refers to the management and administration of Outpatient Department services in a healthcare facility, such as a hospital or a clinic. In a healthcare setting, patients are categorized into two main groups: inpatients (admitted to the hospital) and outpatients (visiting for consultation, treatment, or diagnostic services but not requiring overnight stay). The Outpatient Department (OPD) is responsible for providing medical care and services to these outpatients.
 OPD management involves various activities and processes to ensure the smooth functioning of outpatient services. Some key aspects of OPD management include:
 
